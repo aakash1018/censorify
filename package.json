@@ -1,0 +1,18 @@
+	{
+	"author" : " Brendan Dayley",
+	"name":"censorify",
+	"version":"0.1.1",
+	"description":"Censor word out of text",
+	"repository":{
+	"type":"git",
+	"url":"https://github.com/aakash1018/censorify/tree/master/censorify"},
+	"keywords":[
+	"censor",
+	"words"
+	],
+	"main":"censortext",
+	"dependencies":{},
+	"engines":{
+	"node":"*"}
+	}
+	
